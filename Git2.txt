@@ -1,1 +1,1 @@
-Hii This is my Second text adding in git.
+Hii This is my Second text adding in git there is something error while pushing the code.
